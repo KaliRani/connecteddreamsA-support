@@ -35,7 +35,7 @@ We aim to respond within 24–48 hours.
 ## ❓ FAQ
 
 ### **Why does the app request Bluetooth permission?**
-The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices such as an audio or light source when alarms are triggered. We do not collect any data.
+The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
 ### **Why does the app request Camera access?**
 Camera access for:
