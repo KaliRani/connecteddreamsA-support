@@ -44,7 +44,6 @@ The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled 
 Why does the app request Camera access?
 Camera access for:
 - Scanning QR codes
-- Text scanning for translation (coming in future release)
 - Optional Matter pairing (coming in future release) 
   We do not store or share images.
 
