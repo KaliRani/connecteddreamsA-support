@@ -15,7 +15,7 @@ About the App
 
 Connected Dreams A combines:
 - creation of healthy sleep routines and gentle 'alarms'.
-- Initial release of Connected Dreams A with sleep tools, short journal entry, and smart device activation via Bluetooth or Http depending on users preference. Matter connectivity coming with future releases.
+- Initial release of Connected Dreams A provides the user with sleep tools, short journal entry, and smart device activation via Bluetooth or Http depending on users preference. Matter connectivity coming with future releases.
 - The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when user sets an alarm. Users may connect other Bluetooth devices for wellness or health-related tracking.
 - Optional short journaling features available. If you desire more frequent and longer entries, please visit Connected Dreams C. Connected Dreams C provides children-friendly features.
 - Wellness tracking  
@@ -66,15 +66,6 @@ All features, including connectivity, alarms, and scanning, operate locally on-d
 
 ---
 
-Additional Assistance
-
-For issues such as:
-- Troubleshooting  
-- Feature questions  
-- Connectivity setup  
-- Bug reports  
-
-Please contact support via the email above.
 
 Thank you for using Connected Dreams A
 
