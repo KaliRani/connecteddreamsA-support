@@ -9,7 +9,9 @@ Connected Dreams A runs entirely on-device, without collecting, storing, or tran
 1. No Data Collection
 
 Connected Dreams A does not collect, store, transmit, or share any personal data.
-We do not use analytics, trackers, advertising tools, or third-party data processors.
+We do not use trackers, advertising tools, or third-party data processors.
+The in-app agent does not rely on third-party analytics, advertising SDKs, or external AI processors. 
+The app's own logic and user's own app data handles agent requests.
 
 All app functionality performs locally on your device.
 
@@ -28,11 +30,10 @@ No device information, identifiers, or connection data gets uploaded or shared.
 
 The App may request Camera access to enable:
 
-QR code scanning
+QR code scanning for Matter pairing.
 
-Optional document text scanning (for user journaling)
 
-Optional Matter pairing in future releases
+
 
 Connected Dreams A does not record, store, transmit, or upload images or video.
 
@@ -60,7 +61,7 @@ The App does not use any third-party software development kits (SDKs), analytics
 
 8. Data Retention
 
-All data remains on-device and fully under your control.
+All data remains on-device and fully under your control. Extended capabilites of the agent remains an option for users. 
 Deleting the app deletes all stored content.
 
 9. Contact
