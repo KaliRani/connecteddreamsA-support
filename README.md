@@ -1,5 +1,6 @@
 connecteddreamsA-support
 Support information about Connected Dreams A 
+https://cda-privacypolicy.carrd.co/
 
 Connected Dreams A — Support
 
